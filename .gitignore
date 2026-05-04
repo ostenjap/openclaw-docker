@@ -1,3 +1,15 @@
 # Moltbot Docker
-
-Build artifacts and temporary files
+.env
+node_modules
+build
+logs
+.cache
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.production
+.env.development
+.env.tests
+skills/.agent
